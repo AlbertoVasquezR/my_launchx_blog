@@ -7,14 +7,14 @@ description: 'Este es mi primer post de la travesía en la Misión de Backend co
 Hola a tod@s 👻
 
 > Para mi, las principales cosas que un desarrollador de software tiene como cultura son:
-> > Disciplina.
-> > Dedicación.
-> > Perseverancia.
-> > Paciencia.
-> > Autocontrol.
-> > Honestidad.
-> > Empatía.
-> > Respeto.
+> > - Disciplina.
+> > - Dedicación.
+> > - Perseverancia.
+> > - Paciencia.
+> > - Autocontrol.
+> > - Honestidad.
+> > - Empatía.
+> > - Respeto.
 
 Estas desde mi punto de vista, son las necesarias para ser un desarrollador de software profesional.
 
